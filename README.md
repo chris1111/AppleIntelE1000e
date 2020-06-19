@@ -13,7 +13,7 @@
 
 - I added New Release V-3.3.7 compilling in Xcode 3.2 working for Mac OS X Snow Leopard to macOS Catalina 10.15.5 (19F101)
 
-[Download ➤ AppleIntelE1000e (Release V-3.3.7 10.6 to 10.13)](https://github.com/chris1111/AppleIntelE1000e/releases/tag/V3.3.7)
+[Download ➤ AppleIntelE1000e (Release V-3.3.7 10.6 to 10.15.5)](https://github.com/chris1111/AppleIntelE1000e/releases/tag/V3.3.7)
 
 
 ## From my Dell Optiplex 790.
